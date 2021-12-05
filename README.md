@@ -21,12 +21,8 @@ Any visitors to the site should be able to:
 
 - Click on any repos to see more details of each of my repositories.
 
-### Screenshot
-
-![](./img/github-repo-gallery-1.png)
 
 ### Links
-
 
 - Live Site URL: https://anniecat73.github.io/github-repo-gallery/
 
